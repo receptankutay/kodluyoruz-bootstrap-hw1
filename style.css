@@ -1,0 +1,12 @@
+* {
+    list-style-type: none;
+    transition: 500ms all;
+  }
+  
+  body {
+    background-color: #E9ECEF;
+  }
+
+  .card{
+    margin: 10px auto;
+  }
